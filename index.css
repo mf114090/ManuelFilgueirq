@@ -1,15 +1,10 @@
-body {
-    background-color: rgb(241, 245, 245);
-}
-nav  {
-    
+
+nav  {    
     background-color: rgb(111, 155, 105);
     display: flex;
-    justify-content: right;
-    color: aliceblue;
+    justify-content: right;  
     
 }
-
 nav ul {
     list-style: none;
     margin: 0;
@@ -19,9 +14,10 @@ nav ul {
 nav li {
     margin: 0;
 }
-
 nav a {
-    color: beige;
+    color: rgb(241, 241, 44);
     padding: 12px;
     display: block;
 }
+
+body {background-color: rgb(165, 159, 159);}
