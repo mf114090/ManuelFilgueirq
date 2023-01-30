@@ -3,10 +3,11 @@ body {
 }
 nav  {
     
-    background-color: rgb(66, 95, 62);
+    background-color: rgb(111, 155, 105);
     display: flex;
     justify-content: right;
     color: aliceblue;
+    
 }
 
 nav ul {
