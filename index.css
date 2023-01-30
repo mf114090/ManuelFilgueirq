@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(241, 245, 245);
+}
+nav  {
+    
+    background-color: rgb(66, 95, 62);
+    display: flex;
+    justify-content: right;
+    color: aliceblue;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav li {
+    margin: 0;
+}
+
+nav a {
+    color: beige;
+    padding: 12px;
+    display: block;
+}
