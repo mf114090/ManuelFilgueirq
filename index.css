@@ -20,4 +20,26 @@ nav a {
     display: block;
 }
 
-body {background-color: rgb(165, 159, 159);}
+body {
+    background-color: rgb(165, 159, 159);
+}
+footer {    
+    background-color: rgb(68, 43, 97);
+    display: flex;
+    justify-content: right;  
+    
+}
+footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+footer li {
+    margin: 0;
+}
+footer a {
+    color: rgb(146, 138, 27);
+    padding: 12px;
+    display: block;
+}
