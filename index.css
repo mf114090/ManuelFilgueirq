@@ -1,6 +1,6 @@
 
 nav  {    
-    background-color: rgb(111, 155, 105);
+    background-color: rgb(112, 120, 238);
     display: flex;
     justify-content: right;  
     
@@ -20,9 +20,13 @@ nav a {
     display: block;
 }
 
-body {
-    background-color: rgb(165, 159, 159);
-}
+ body {
+    background-image: url(https://img.freepik.com/foto-gratis/conos-helado-vacios_23-2148177297.jpg?);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+} 
+
 footer {    
     background-color: rgb(68, 43, 97);
     display: flex;
