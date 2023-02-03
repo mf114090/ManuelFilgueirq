@@ -20,12 +20,26 @@ nav a {
     display: block;
 }
 
- body {
-    background-image: url(https://img.freepik.com/foto-gratis/conos-helado-vacios_23-2148177297.jpg?);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover; 
+body {
+   background-image: url(https://img.freepik.com/foto-gratis/conos-helado-vacios_23-2148177297.jpg?);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover; 
 } 
+
+
+img {
+    
+    width: 400px; 
+    height: 600px;
+}    
+    
+    
+    
+    
+
+
+ 
 
 footer {    
     background-color: rgb(68, 43, 97);
