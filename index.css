@@ -27,16 +27,19 @@ body {
    background-size: cover; 
 } 
 
+.div-img {
+    display: flex;
+    justify-content: center;
+    margin-top: 60mm;
+    
+  }
+.card {
+    padding: 1cm;
+    justify-content: center;
+    
+    
 
-img {
-    
-    width: 400px; 
-    height: 600px;
-}    
-    
-    
-    
-    
+}
 
 
  
