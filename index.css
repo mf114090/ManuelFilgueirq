@@ -52,7 +52,7 @@ nav a {
     padding: 11cm;
     justify-content: center;
     margin: auto;
-    background-image: url(5543771.jpg ?);
+    background-color: url(5543771.jpg?); 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -64,7 +64,7 @@ nav a {
     justify-content: center;
     font-style: italic;
     text-align: center;
-    background-image: url(5543771.jpg?);
+    /* background-image: url(hpremium.jpg); */
     
     padding: 1cm;
     color: rgb(112, 120, 238) ;
