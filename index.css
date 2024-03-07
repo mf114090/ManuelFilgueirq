@@ -37,6 +37,27 @@ nav a {
     color: rgb(112, 120, 238);
     margin: 5cm;
 }
+.descripcion {
+    
+    padding: 5px; 
+    font-style: italic;
+    color: rgb(148, 32, 165);
+    margin: 5cm;
+}.misión {
+    
+    padding: 5px; 
+    font-style: italic;
+    color: rgb(148, 32, 165);
+    margin: 5cm;
+}
+
+.visión {
+    
+    padding: 5px; 
+    font-style: italic;
+    color: rgb(148, 32, 165);
+    margin: 5cm;
+}
 
 .div-img {
     display: flex;
