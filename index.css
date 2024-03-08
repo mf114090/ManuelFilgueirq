@@ -37,12 +37,29 @@ nav a {
     color: rgb(112, 120, 238);
     margin: 5cm;
 }
+
+.helados {
+    
+    padding: 6px; 
+    font-style: italic;
+    color: rgb(112, 120, 238);
+    margin: 5cm;
+}
+.cafe {
+    
+    padding: 6px; 
+    font-style: italic;
+    color: rgb(112, 120, 238);
+    margin: 5cm;
+}
+
 .descripcion {
     
     padding: 5px; 
     font-style: italic;
     color: rgb(148, 32, 165);
     margin: 5cm;
+
 }.misión {
     
     padding: 5px; 
@@ -69,28 +86,6 @@ nav a {
     justify-content: center;
 }
 
-.batido {
-    padding: 11cm;
-    justify-content: center;
-    margin: auto;
-    background-color: url(5543771.jpg?); 
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  
-   
-
-}
-.promociones {
-    justify-content: center;
-    font-style: italic;
-    text-align: center;
-    /* background-image: url(hpremium.jpg); */
-    
-    padding: 1cm;
-    color: rgb(112, 120, 238) ;
-    
-}
  
 
 footer {    
