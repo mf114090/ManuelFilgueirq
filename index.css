@@ -108,3 +108,19 @@ footer a {
     padding: 12px;
     display: block;
 }
+
+.ubicacion {
+    
+    padding: 8px; 
+    font-style: italic;
+    color: rgb(112, 120, 238);
+    margin: 6cm;
+    text-align: center;
+}
+.mapa {
+    
+    padding: 10px; 
+    
+    
+    
+}
