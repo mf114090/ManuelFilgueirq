@@ -89,7 +89,7 @@ nav a {
  
 
 footer {    
-    background-color: rgb(68, 43, 97);
+    background-color: rgb(253, 253, 253);
     display: flex;
     justify-content: right;  
     
@@ -123,4 +123,33 @@ footer a {
     
     
     
+}
+.redes {
+    margin: 0;
+    padding: 0;
+  
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.buttons {
+    min-width: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons a {
+    text-decoration: none;
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    list-style: none; 
+    line-height: 60px;
+    text-align: center;
+    color: #FFD700;
+    background-color: black ;
+    border-radius: 50%;
+    box-shadow: 2 px 2px 5px #808080(0, 0, 0, .5) ;
+    transition: all .4s ea;
 }
